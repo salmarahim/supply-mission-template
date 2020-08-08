@@ -1,1 +1,1 @@
-# supply-mission-template
+# SupplyMission
